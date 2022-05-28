@@ -1,0 +1,10 @@
+<mvc:View controllerName="resume.controller.View1"
+    xmlns:mvc="sap.ui.core.mvc" displayBlock="true"
+    xmlns="sap.m">
+    <Page id="page" title="{i18n>title}">
+
+        <content>
+        <Text text="Jai Shree Ram" />
+        </content>
+    </Page>
+</mvc:View>
